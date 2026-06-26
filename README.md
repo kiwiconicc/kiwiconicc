@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"> <img height="500" width="500" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=b784e0&bar_color_cover=false"
 
 <!--
 **kiwiconicc/kiwiconicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
