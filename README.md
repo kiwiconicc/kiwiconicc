@@ -1,4 +1,4 @@
-<p align="center"> <img height="500" width="500" src="https://imgur.com/b7RbYl7.jpeg"
+<p align="center"> <img height="200" width="300" src="https://imgur.com/b7RbYl7.jpeg"
 
 <!--
 **kiwiconicc/kiwiconicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
