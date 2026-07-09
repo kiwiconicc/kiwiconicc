@@ -1,7 +1,11 @@
 <p align="center"> <img width="50" src="https://imgur.com/LTZhF0q.gif"
 <p align="center"> <img width="50" src="https://imgur.com/LTZhF0q.gif"
 <p align="center"> <img width="50" src="https://imgur.com/LTZhF0q.gif"
-                     <p align="center"> <img width="300" src="https://imgur.com/oZLi2q5.gif"
+ <details><summary> byi ,, .ᐟ <img width="25" src="https://imgur.com/LTZhF0q.gif"/></summary> • i'm mostly afk or in party chat most of times , so please w2i ! • cuddling with me is heavily encouraged , even if i have dni ,  unless i'm with friends !
+ in general , • i'm a very friendly person, so don't be scared to int ! • I don't use tone tags , so if you need them, tell me ! • please don't take things i say seriously , unless i use /gen . • and if you're in any of the fandoms i am, PLEASE INT ! ! . </details>
+
+                    
+  <p align="center"> <img width="300" src="https://imgur.com/oZLi2q5.gif"
   <p align="center"> <img width="500" src="https://imgur.com/Yh0GaF0.png"
 <p align="center"> <img width="700"             
                      <p align="center"> <img width="50" src="https://imgur.com/LTZhF0q.gif"      
