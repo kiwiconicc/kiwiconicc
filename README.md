@@ -1,5 +1,5 @@
 
-<p align="center"> <img width="500"                    src="https://imgur.com/UJW6zM3.png"
+<p align="center"> <img width="700"                    src="https://imgur.com/UJW6zM3.png"
 <details><summary> byi ,, .ᐟ <img width="25" src="https://imgur.com/LTZhF0q.gif"/></summary> 
  • i'm mostly afk or in party chat most of times , so please w2i ! 
 
