@@ -5,7 +5,9 @@
   
 ʚ<p align="center"> ![](https://imgur.com/i3qQZPV.png)  
 
-.<p align="center"> ![](https://imgur.com/vcCtmOQ.png)
+.<p align="center"> ![](https://imgur.com/uFdlljR.gif)
+  
+  .<p align="center"> ![](https://imgur.com/vcCtmOQ.png)
 
 <p align="center"> <details><summary> byi ,, .ᐟ <img width="25" src="https://imgur.com/LTZhF0q.gif"/></summary> 
  • i'm mostly afk or in party chat most of times , so please w2i ! 
