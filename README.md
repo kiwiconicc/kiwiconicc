@@ -1,6 +1,6 @@
 ![](https://imgur.com/ot0aO9K.png)
 ![](https://imgur.com/XnjJFPc.png)
-![](https://imgur.com/VPcbKiB.png) <img src="https://imgur.com/cZpzzei.png"> </center>
+![](https://imgur.com/5Wb5MFN.png)
 
 </center><img src="https://imgur.com/dkTdaqo.png"> </center>
 
