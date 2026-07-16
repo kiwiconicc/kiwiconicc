@@ -6,4 +6,7 @@
 <img width="450" src="https://imgur.com/QyXfJ24.jpeg"/>
 <img width="700" src="https://imgur.com/0UR8QJE.png"/>
 <a href="https://kiwiconic.atabook.org/">
-<img width="200" src="https://imgur.com/1sAsHIP.png"/>
+<img width="300" src="https://imgur.com/1sAsHIP.png"/>
+<img width="700" src="https://imgur.com/0UR8QJE.png"/>
+<a href="https://kiwiestkiwi.straw.page">
+<img width="300" src="https://imgur.com/c6OpUQP.png/"/>
