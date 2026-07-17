@@ -12,3 +12,5 @@
 <img width="700" src="https://imgur.com/0UR8QJE.png"/>
 <a href="https://kiwiestkiwi.straw.page">
 <img width="300" src="https://imgur.com/c6OpUQP.png/"/>
+<img width="700" src="https://imgur.com/0UR8QJE.png"/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
