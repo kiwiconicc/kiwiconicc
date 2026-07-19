@@ -1,4 +1,4 @@
-<img width="800" src="https://imgur.com/9BzRXMT.png"/>
+yo<img width="800" src="https://imgur.com/9BzRXMT.png"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4B4C4&width=435&lines=Are+we+still+friends%3F;Don't+get+green+skin;Keep+contact+(contact);Don't+say+%22Goodbye%2C+smell+you+later!%22)](https://git.io/typing-svg)
 
@@ -16,4 +16,4 @@
 <img width="300" src="https://imgur.com/ef1RBQW.png/"/>
 <img width="700" src="https://imgur.com/0UR8QJE.png"/> 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
