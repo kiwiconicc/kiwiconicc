@@ -15,5 +15,5 @@
 <a href="https://kiwiestkiwi.straw.page">
 <img width="300" src="https://imgur.com/ef1RBQW.png/"/>
 <img width="700" src="https://imgur.com/0UR8QJE.png"/> 
-<img width="NUMBER" src="https://imgur.com/jzVmIz5.png"/>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
