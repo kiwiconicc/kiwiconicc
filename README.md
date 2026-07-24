@@ -7,13 +7,17 @@
 
 
 <img width="700" src="https://imgur.com/P1M3tAV.png"/>
-<img width="450" src="https://imgur.com/A40MG3B.jpeg"/>
+<img width="450" src="https://imgur.com/CJTOcsX.jpeg"/>
 <img width="500" src="https://imgur.com/P1M3tAV.png"/>
 <a href="https://kiwiconic.atabook.org/">
-<img width="300" src="https://imgur.com/kFWBqcj.png"/>
-<img width="700" src="https://imgur.com/DfDF78l.png"/>
+
+<img width="700" src="https://imgur.com/nSIJzYa.png"/>
 <a href="https://kiwiestkiwi.straw.page">
-<img width="300" src="https://imgur.com/ef1RBQW.png/"/>
+
+<img width="700" src="https://imgur.com/DfDF78l.png/"/>
 <img width="700" src="https://imgur.com/P1M3tAV.png"/> 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&redirect=true)
+
+<img width="250" src="https://imgur.com/0ALIBq2.gif"/>
+<img width="800" src="https://imgur.com/NRZhgpo.png"/>
