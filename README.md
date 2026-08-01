@@ -21,5 +21,4 @@
 
 <img width="250" src="https://imgur.com/0ALIBq2.gif"/>
 <img width="800" src="https://imgur.com/NRZhgpo.png"/>
-<img width="300" src="https://imgur.com/naVRani.png/"/>
 
