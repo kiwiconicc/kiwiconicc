@@ -21,7 +21,7 @@
 
 $${\color{pink}THE \space \color{lightgreen} PONY TOWN\space \color{turquoise}{SAIKI}\space \{KUSUO}}{\color{white}}{FAN}\space\$$
 
-[@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion) [@pt-contributers](https://github.com/pt-contributers) [@fans-town](https://github.com/fans-town) [@pt-of-awesomeness](https://github.com/pt-of-awesomeness) [@YUME-TOWN](https://github.com/ponytownyumeshippers) [@title-town](https://github.com/title-town)
+[@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion) [@pt-contributers](https://github.com/pt-contributers) [@fans-town](https://github.com/fans-town) [@pt-of-awesomeness](https://github.com/pt-of-awesomeness) [@title-town](https://github.com/title-town)
 
 
 <img width="250" src="https://imgur.com/0ALIBq2.gif"/>
