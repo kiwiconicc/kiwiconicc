@@ -23,8 +23,10 @@ $${\color{pink}THE \space \color{lightgreen} PONY TOWN\space \color{turquoise}{S
 
 [@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion) [@pt-contributers](https://github.com/pt-contributers) [@fans-town](https://github.com/fans-town) [@pt-of-awesomeness](https://github.com/pt-of-awesomeness) [@title-town](https://github.com/title-town)
 
-
-<img width="250" src="https://imgur.com/0ALIBq2.gif"/>
-
+  ## ¿ ʚ what should i do today ɞ ?
+- [ ] clean the house
+- [ ] take an actual sh*wer
+- [ ] get a j*b
+- [x] glaze saiki kusuo
 <img width="800" src="https://imgur.com/NRZhgpo.png"/>
 
