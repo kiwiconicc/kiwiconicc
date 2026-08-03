@@ -27,6 +27,6 @@ $${\color{pink}THE \space \color{lightgreen} PONY TOWN\space \color{turquoise}{S
 - [ ] clean the house
 - [ ] take an actual sh*wer
 - [ ] get a j*b
-- [x] glaze saiki kusuo
+- [x] watch yaoi
 <img width="800" src="https://imgur.com/NRZhgpo.png"/>
 
