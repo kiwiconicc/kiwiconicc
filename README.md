@@ -29,7 +29,7 @@ $${\color{lightgreen}the \space \color{white} awards\space \color{pink}{i}\space
 [@YUME-TOWN](https://github.com/ponytownyumeshippers)
 [@pt-stars](https://github.com/pt-stars)
 
-  ## ¿ ʚ what should i do today ɞ ?
+  ## what should i do today  ?
 - [ ] clean the house
 - [ ] take an actual sh*wer
 - [ ] get a j*b
