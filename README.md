@@ -1,3 +1,6 @@
+
+
+<img width="3000" src="https://imgur.com/0NJQMlI.png"/>
 <img width="800" src="https://imgur.com/62UQHma.png"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A2BF&width=435&lines=Listen+(do-da-do);Do+you+want+to+know+a+secret%3F+(do-da-do);Do+you+promise+not+to+tell%3F+(woah+oh);Closer+(do-da-do);Let+me+whisper+in+your+ear+(do-da-do);Say+the+words+you+long+to+hear..;I'm...+in+love+with+you!+%E2%99%A1)](https://git.io/typing-svg)
@@ -34,6 +37,7 @@ $${\color{lightgreen}the \space \color{white} awards\space \color{pink}{i}\space
 - [ ] take an actual sh*wer
 - [ ] get a j*b
 - [x] watch yaoi
+
 <img width="800" src="https://imgur.com/NRZhgpo.png"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint+&duration=6000&pause=1000&color=B14766&width=435&lines=JUDGEMENT+KNIGHTS+OF+THUNDER!!!!)](https://git.io/typing-svg)
