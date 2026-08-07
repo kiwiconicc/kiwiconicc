@@ -24,7 +24,7 @@ $${\color{pink}THE \space \color{lightgreen} PONY TOWN\space \color{turquoise}{S
 
 $${\color{lightgreen}the \space \color{white} awards\space \color{pink}{i}\space \{have!!}}{\color{turquoise}}{TYSM!!!!<3 }\space\$$
 
-[@pt-walk-of-fame](https://github.com/pt-walk-of-fame)  [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion) [@pt-contributers](https://github.com/pt-contributers) [@fans-town](https://github.com/fans-town) [@pt-of-awesomeness](https://github.com/pt-of-awesomeness) [@title-town](https://github.com/title-town) [@ponychievements](https://github.com/ponychievements) [@ponytown-nominations](https://github.com/ponytown-nominations) 
+[@pt-walk-of-fame](https://github.com/pt-walk-of-fame)  [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion)  [@fans-town](https://github.com/fans-town) [@pt-of-awesomeness](https://github.com/pt-of-awesomeness) [@title-town](https://github.com/title-town) [@ponychievements](https://github.com/ponychievements) [@ponytown-nominations](https://github.com/ponytown-nominations) 
 [@pt-nominations](https://github.com/pt-nominations)
 [@YUME-TOWN](https://github.com/ponytownyumeshippers)
 [@pt-stars](https://github.com/pt-stars)
