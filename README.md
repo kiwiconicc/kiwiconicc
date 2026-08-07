@@ -18,7 +18,7 @@
 <img width="300" src="https://imgur.com/DfDF78l.png/"/>
 <img width="700" src="https://imgur.com/P1M3tAV.png"/> 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjmlvs5a5weqgk3qkhyjl7tn4a&redirect=true)
 
 $${\color{pink}THE \space \color{lightgreen} PONY TOWN\space \color{turquoise}{SAIKI}\space \{KUSUO}}{\color{white}}{FAN}\space\$$
 
