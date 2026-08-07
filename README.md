@@ -2,7 +2,7 @@
 
 <img width="3000" 
 src="https://imgur.com/0NJQMlI.png"/>
-<a href="https://github.com/pt-friendships">
+<a href="https://github.com/pt-friendships/">
 
 <img width="800" src="https://imgur.com/62UQHma.png"/>
 
