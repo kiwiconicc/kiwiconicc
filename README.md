@@ -14,6 +14,8 @@ src="https://imgur.com/0NJQMlI.png"/>
 
 
 [𝐦𝐲 𝐰𝐚𝐥𝐥 𝐨𝐟 𝐭𝐞𝐱𝐭 , 𝐩𝐥𝐞𝐚𝐬𝐞 𝐬𝐢𝐠𝐧 𝐢𝐭!](https://walloftext.co/the-kiwiest-wall-ever)
+
+
 [𝐦𝐲 𝐖𝐁𝐅, 𝐝𝐫𝐚𝐰 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐨𝐧 𝐢𝐭!!](https://r2.whiteboardfox.com/26004434-5890-1561)
 
 <img width="400" src="https://imgur.com/P1M3tAV.png"/>
